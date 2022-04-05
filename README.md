@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello, I'm Yuri Jungles 👋
+Fullstack developer, focused on PHP and JavaScript using the Laravel and VueJs frameworks
 
-<!--
-**yjungles/yjungles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech experience
+
+- 🖥️ PHP, JavaScipt;
+- ⚙️ Laravel, Vue, Vuex, Nuxt;
+- 🖌️ Bootstrap, Vuetify, ElementUI, Semantic UI, Tailwind CSS;
+- 🔍 Mysql, PostgreSQL;
+- 🗃️ Github, Bitbucket;
+- 🔐 AWS, DigitalOcean;
+- 📊 Jira;
+
+### Contact
+- yjungles@hotmail.com
+- <a href="https://www.linkedin.com/in/yjungles/"  alt="linkedin" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+
+
+
