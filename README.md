@@ -5,11 +5,12 @@ Fullstack developer, working mainly with PHP and Javascript languages.
 
 - 🖥️ PHP, JavaScipt;
 - ⚙️ Laravel, Vue/Vuex/Nuxt;
-- 🖌️ Bootstrap, Vuetify, ElementUI, Semantic UI, Tailwind CSS;
-- 🔍 Mysql, PostgreSQL;
+- 🖌️ Bootstrap, Tailwind CSS, Vuetify, ElementUI, Semantic UI;
+- 🔍 Mysql, PostgreSQL, MongoDB;
 - 🗃️ Github, Bitbucket;
-- 🔐 AWS, DigitalOcean;
 - 📊 Jira, Confluence, Kanban;
+- 🔐 AWS, DigitalOcean;
+- 📦 Docker
 
 ### Contact
 - yjungles@hotmail.com
